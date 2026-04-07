@@ -46,8 +46,8 @@ assessment/
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd assessment
+git clone https://github.com/tyssondocarmo/assessment-Programacao-com-Python-Tysson-do-Carmo.git
+cd assessment-Programacao-com-Python-Tysson-do-Carmo/
 ```
 
 ### 2. Criar e ativar o ambiente virtual
